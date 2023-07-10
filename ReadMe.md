@@ -11,8 +11,6 @@ I am a software engineer.<br>Using here as my portfolio<br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=BelemirFuat&show_icons=true&locale=en&layout=compact" alt="BelemirFuat" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=BelemirFuat&show_icons=true&locale=en" alt="BelemirFuat" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BelemirFuat&" alt="BelemirFuat" /></p>
 
 ### ✍️ Random Dev Quote
